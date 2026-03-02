@@ -1,6 +1,6 @@
 <!-- FULL WIDTH NEON BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prausdit/.github/main/profile/banner.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/Prausdit/.github/refs/heads/main/banner.png" width="100%" />
 </p>
 
 <h1 align="center">P R A U S D I T</h1>
