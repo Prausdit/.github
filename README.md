@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prausdit/.github/refs/heads/main/Untitled design.png" width="300" />
+  <img src="https://raw.githubusercontent.com/Prausdit/.github/refs/heads/main/Untitled design.png" width="350" />
 </p>
 
 <h1 align="center">Prausdit</h1>
