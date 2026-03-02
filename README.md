@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/artificial-intelligence/artificial-intelligence.png" width="120" />
+  <img src="https://raw.githubusercontent.com/Prausdit/.github/refs/heads/main/file_000000003128720ba0bbdee8bdc79d8a.png" width="120" />
 </p>
 
 <h1 align="center">Prausdit</h1>
