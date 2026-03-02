@@ -17,17 +17,76 @@
 
 ---
 
-## The Mission
+## About Prausdit
 
-Prausdit is building AI-native digital infrastructure engineered for the next era of computing.
+Prausdit is a deep-technology initiative focused on building AI-native digital systems.
 
-Artificial intelligence should not sit on top of systems.
-
-It should define them.
-
-We are architecting platforms where intelligence exists at the system core — adaptive, context-aware, and hardware-optimized.
+We believe the future of computing will not simply integrate artificial intelligence at the application layer — it will be architected around intelligence at the system core.
 
 ---
+
+## Mission
+
+Our mission is to design foundational platforms where intelligence operates natively across hardware, operating systems, and applications.
+
+Prausdit represents a long-term commitment to building scalable, privacy-conscious, hardware-aware AI infrastructure.
+
+---
+
+# Protroit OS
+
+### A Linux-Based AI-Native Operating System
+
+Protroit is Prausdit’s flagship initiative — a next-generation operating system engineered on the Linux kernel with intelligence embedded directly into its architecture.
+
+Unlike traditional mobile operating systems where AI exists as an assistant or feature, Protroit integrates:
+
+• System-level AI agents  
+• On-device inference engines  
+• Hardware-accelerated intelligence (GPU / NPU)  
+• Context-aware resource management  
+• Natural language system control  
+• Multimodal interaction (voice, vision, eye-gesture)  
+• AI-driven personalization at the core  
+
+Protroit is designed to match the capabilities of modern mobile operating systems while extending them through deep AI integration.
+
+The system adapts to user intent — not the reverse.
+
+---
+
+## Long-Term Vision
+
+Prausdit aims to build more than a single operating system.
+
+The long-term roadmap includes:
+
+• AI-native application ecosystem  
+• Developer AI SDK & agent framework  
+• Modular intelligence services  
+• Secure cloud-AI integration  
+• Cross-device intelligent systems  
+
+The objective is not incremental improvement.
+
+It is architectural evolution.
+
+---
+
+## Engineering Principles
+
+Security by Architecture  
+Privacy-First Processing  
+Hardware-Optimized Intelligence  
+Modular & Scalable Design  
+Transparent AI Systems  
+
+---
+
+<p align="center">
+  <strong>Prausdit</strong><br>
+  Engineering the AI-Native Future
+</p>
 
 # PROTROIT OS
 ### AI-First Operating System Architecture
